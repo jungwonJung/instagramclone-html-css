@@ -75,3 +75,19 @@
   width: 24px;
   border-radius: 50%;
 }
+
+/* header theme  */
+
+.header-theme-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.header-theme-button-sun {
+  display: none;
+}
+
+.header-theme-button-moon {
+  display: unset;
+}
